@@ -15,3 +15,9 @@ Welcome to the Tether SaaS project.
 ``` yarn dev -p 2000```
 
 note: if you dont have yarn first downlowd it
+
+## Touring Team 
+
+I developed this project with the invaluable help of Touring Team.
+
+thanks to Team leader [Armin Kardan](https://github.com/ArminKardan) 
